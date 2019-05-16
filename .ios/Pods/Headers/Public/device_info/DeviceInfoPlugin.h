@@ -1,0 +1,1 @@
+../../../../Flutter/.symlinks/device_info/ios/Classes/DeviceInfoPlugin.h

@@ -1,0 +1,1 @@
+../../../../Flutter/.symlinks/package_info/ios/Classes/PackageInfoPlugin.h

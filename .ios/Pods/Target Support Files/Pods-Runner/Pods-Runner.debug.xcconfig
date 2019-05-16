@@ -1,0 +1,11 @@
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/../Flutter/engine"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/FMDB" "${PODS_ROOT}/Headers/Public/FlutterPluginRegistrant" "${PODS_ROOT}/Headers/Public/device_info" "${PODS_ROOT}/Headers/Public/flutter_boost" "${PODS_ROOT}/Headers/Public/flutter_webview_plugin" "${PODS_ROOT}/Headers/Public/fluttertoast" "${PODS_ROOT}/Headers/Public/fluwx" "${PODS_ROOT}/Headers/Public/package_info" "${PODS_ROOT}/Headers/Public/path_provider" "${PODS_ROOT}/Headers/Public/screen" "${PODS_ROOT}/Headers/Public/shared_preferences" "${PODS_ROOT}/Headers/Public/sqflite" "${PODS_ROOT}/Headers/Public/video_player" "${PODS_ROOT}/Headers/Public/xservice_kit"
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+LIBRARY_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/FMDB" "${PODS_CONFIGURATION_BUILD_DIR}/FlutterPluginRegistrant" "${PODS_CONFIGURATION_BUILD_DIR}/device_info" "${PODS_CONFIGURATION_BUILD_DIR}/flutter_boost" "${PODS_CONFIGURATION_BUILD_DIR}/flutter_webview_plugin" "${PODS_CONFIGURATION_BUILD_DIR}/fluttertoast" "${PODS_CONFIGURATION_BUILD_DIR}/fluwx" "${PODS_CONFIGURATION_BUILD_DIR}/package_info" "${PODS_CONFIGURATION_BUILD_DIR}/path_provider" "${PODS_CONFIGURATION_BUILD_DIR}/screen" "${PODS_CONFIGURATION_BUILD_DIR}/shared_preferences" "${PODS_CONFIGURATION_BUILD_DIR}/sqflite" "${PODS_CONFIGURATION_BUILD_DIR}/video_player" "${PODS_CONFIGURATION_BUILD_DIR}/xservice_kit" "${PODS_ROOT}/../Flutter/.symlinks/fluwx/ios/Lib"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"FMDB" -l"FlutterPluginRegistrant" -l"WeChatSDK" -l"c++" -l"device_info" -l"flutter_boost" -l"flutter_webview_plugin" -l"fluttertoast" -l"fluwx" -l"package_info" -l"path_provider" -l"screen" -l"shared_preferences" -l"sqflite" -l"sqlite3" -l"sqlite3.0" -l"video_player" -l"xservice_kit" -l"z" -framework "CoreTelephony" -framework "Flutter" -framework "SystemConfiguration"
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods
+#include "/Users/rolland/dev/xws/flutterImageList/.ios/Flutter/Generated.xcconfig"

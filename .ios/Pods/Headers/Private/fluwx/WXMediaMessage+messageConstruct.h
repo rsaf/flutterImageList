@@ -1,0 +1,1 @@
+../../../../Flutter/.symlinks/fluwx/ios/Classes/wechat/WXMediaMessage+messageConstruct.h

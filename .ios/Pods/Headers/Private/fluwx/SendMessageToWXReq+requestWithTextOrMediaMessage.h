@@ -1,0 +1,1 @@
+../../../../Flutter/.symlinks/fluwx/ios/Classes/wechat/SendMessageToWXReq+requestWithTextOrMediaMessage.h

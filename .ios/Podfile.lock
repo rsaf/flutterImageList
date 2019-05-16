@@ -1,0 +1,116 @@
+PODS:
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_boost (0.0.1):
+    - Flutter
+    - xservice_kit
+  - flutter_webview_plugin (0.0.1):
+    - Flutter
+  - FlutterPluginRegistrant (0.0.1):
+    - device_info
+    - Flutter
+    - flutter_boost
+    - flutter_webview_plugin
+    - fluttertoast
+    - fluwx
+    - package_info
+    - path_provider
+    - screen
+    - shared_preferences
+    - sqflite
+    - video_player
+    - xservice_kit
+  - fluttertoast (0.0.2):
+    - Flutter
+  - fluwx (0.0.1):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - package_info (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - screen (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+  - video_player (0.0.1):
+    - Flutter
+  - xservice_kit (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - device_info (from `../.ios/Flutter/.symlinks/device_info/ios`)
+  - Flutter (from `../.ios/Flutter/engine`)
+  - flutter_boost (from `../.ios/Flutter/.symlinks/flutter_boost/ios`)
+  - flutter_webview_plugin (from `../.ios/Flutter/.symlinks/flutter_webview_plugin/ios`)
+  - FlutterPluginRegistrant (from `../.ios/Flutter/FlutterPluginRegistrant`)
+  - fluttertoast (from `../.ios/Flutter/.symlinks/fluttertoast/ios`)
+  - fluwx (from `../.ios/Flutter/.symlinks/fluwx/ios`)
+  - package_info (from `../.ios/Flutter/.symlinks/package_info/ios`)
+  - path_provider (from `../.ios/Flutter/.symlinks/path_provider/ios`)
+  - screen (from `../.ios/Flutter/.symlinks/screen/ios`)
+  - shared_preferences (from `../.ios/Flutter/.symlinks/shared_preferences/ios`)
+  - sqflite (from `../.ios/Flutter/.symlinks/sqflite/ios`)
+  - video_player (from `../.ios/Flutter/.symlinks/video_player/ios`)
+  - xservice_kit (from `../.ios/Flutter/.symlinks/xservice_kit/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FMDB
+
+EXTERNAL SOURCES:
+  device_info:
+    :path: "../.ios/Flutter/.symlinks/device_info/ios"
+  Flutter:
+    :path: "../.ios/Flutter/engine"
+  flutter_boost:
+    :path: "../.ios/Flutter/.symlinks/flutter_boost/ios"
+  flutter_webview_plugin:
+    :path: "../.ios/Flutter/.symlinks/flutter_webview_plugin/ios"
+  FlutterPluginRegistrant:
+    :path: "../.ios/Flutter/FlutterPluginRegistrant"
+  fluttertoast:
+    :path: "../.ios/Flutter/.symlinks/fluttertoast/ios"
+  fluwx:
+    :path: "../.ios/Flutter/.symlinks/fluwx/ios"
+  package_info:
+    :path: "../.ios/Flutter/.symlinks/package_info/ios"
+  path_provider:
+    :path: "../.ios/Flutter/.symlinks/path_provider/ios"
+  screen:
+    :path: "../.ios/Flutter/.symlinks/screen/ios"
+  shared_preferences:
+    :path: "../.ios/Flutter/.symlinks/shared_preferences/ios"
+  sqflite:
+    :path: "../.ios/Flutter/.symlinks/sqflite/ios"
+  video_player:
+    :path: "../.ios/Flutter/.symlinks/video_player/ios"
+  xservice_kit:
+    :path: "../.ios/Flutter/.symlinks/xservice_kit/ios"
+
+SPEC CHECKSUMS:
+  device_info: 3ebad48f726348f69abd802f3334a8d1ed795fbd
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_boost: 0e85ea37c74ed39ee7b91a35612afa1605557484
+  flutter_webview_plugin: ed9e8a6a96baf0c867e90e1bce2673913eeac694
+  FlutterPluginRegistrant: 140e9b0bcd9517193eefa0d9fdd481dd5ae093a9
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  fluwx: 7256ee8b412577cf03a87d17863b0b6ca0d483db
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  package_info: 78cabb3c322943c55d39676f4a5bfc748c01d055
+  path_provider: f96fff6166a8867510d2c25fdcc346327cc4b259
+  screen: abd91ca7bf3426e1cc3646d27e9b2358d6bf07b0
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+  sqflite: ff1d9da63c06588cc8d1faf7256d741f16989d5a
+  video_player: 3964090a33353060ed7f58aa6427c7b4b208ec21
+  xservice_kit: a2f1b35addc126fce8687aeb183ab0c1ada5b7f3
+
+PODFILE CHECKSUM: 72e1e8175dfc89701dce64d331963d9d73fd85e9
+
+COCOAPODS: 1.6.1
